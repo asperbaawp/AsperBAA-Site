@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>AsperBAA</title>
+	<title>Home - AsperBAA</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -29,9 +29,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
@@ -50,7 +53,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=58</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/5-stages-of-team-development-what-you-need-to-know/">5 Stages of Team Development: What You Need to Know</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -131,6 +136,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/5-stages-of-team-development-what-you-need-to-know/">5 Stages of Team Development: What You Need to Know</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/5-stages-of-team-development-what-you-need-to-know/feed/</wfw:commentRss>
@@ -149,7 +155,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=59</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/writing-a-business-case-what-it-is-and-how-to-write/">Writing a Business Case: What It Is and How to Write</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -230,6 +238,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/writing-a-business-case-what-it-is-and-how-to-write/">Writing a Business Case: What It Is and How to Write</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/writing-a-business-case-what-it-is-and-how-to-write/feed/</wfw:commentRss>
@@ -248,7 +257,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=60</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/tools-and-tips-to-successfully-organize-your-small-business/">Tools and Tips to Successfully Organize Your Small Business</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -329,6 +340,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/tools-and-tips-to-successfully-organize-your-small-business/">Tools and Tips to Successfully Organize Your Small Business</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/tools-and-tips-to-successfully-organize-your-small-business/feed/</wfw:commentRss>
@@ -347,7 +359,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=61</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/want-to-grow-your-business-you-need-a-growth-strategy/">Want to Grow Your Business? You Need a Growth Strategy</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -428,6 +442,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/want-to-grow-your-business-you-need-a-growth-strategy/">Want to Grow Your Business? You Need a Growth Strategy</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/want-to-grow-your-business-you-need-a-growth-strategy/feed/</wfw:commentRss>
@@ -446,7 +461,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=62</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/the-best-saas-tools-to-boost-business-growth/">The Best SaaS Tools to Boost Business Growth</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -527,6 +544,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/the-best-saas-tools-to-boost-business-growth/">The Best SaaS Tools to Boost Business Growth</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/the-best-saas-tools-to-boost-business-growth/feed/</wfw:commentRss>
@@ -545,7 +563,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=51</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/20-business-blogs-that-will-blow-your-mind/">20 Business Blogs That Will Blow Your Mind</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -626,6 +646,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/20-business-blogs-that-will-blow-your-mind/">20 Business Blogs That Will Blow Your Mind</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/20-business-blogs-that-will-blow-your-mind/feed/</wfw:commentRss>
@@ -644,7 +665,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=57</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/what-effect-will-ai-have-on-construction/">What Effect Will AI Have on Construction?</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -725,6 +748,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/what-effect-will-ai-have-on-construction/">What Effect Will AI Have on Construction?</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/what-effect-will-ai-have-on-construction/feed/</wfw:commentRss>
@@ -743,7 +767,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=56</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/be-remarkable-how-to-make-your-business-stand-out/">Be Remarkable: How to Make Your Business Stand Out</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -824,6 +850,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/be-remarkable-how-to-make-your-business-stand-out/">Be Remarkable: How to Make Your Business Stand Out</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/be-remarkable-how-to-make-your-business-stand-out/feed/</wfw:commentRss>
@@ -842,7 +869,9 @@
 		<category><![CDATA[Meetup]]></category>
 		<guid isPermaLink="false">http://kits.themecy.com/events/?p=55</guid>
 
-					<description><![CDATA[Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...]]></description>
+					<description><![CDATA[<p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque...</p>
+<p>The post <a href="/the-8-step-process-we-used-to-start-a-successful-podcast/">The 8-Step Process We Used to Start a Successful Podcast</a> appeared first on <a href="/">AsperBAA</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Sed arcu non odio euismod lacinia. Sit amet cursus sit amet dictum sit. Nunc pulvinar sapien et ligula ullamcorper. Pellentesque diam volutpat commodo sed egestas. Tellus elementum sagittis vitae et leo duis ut diam quam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. At risus viverra adipiscing at in tellus. Duis at tellus at urna condimentum mattis pellentesque.</p>
 
@@ -923,6 +952,7 @@
 
 
 <p>Bibendum est ultricies integer quis. Risus quis varius quam quisque id diam vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. At tempor commodo ullamcorper a. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Aliquet bibendum enim facilisis gravida neque convallis. In hendrerit gravida rutrum quisque.</p>
+<p>The post <a href="/the-8-step-process-we-used-to-start-a-successful-podcast/">The 8-Step Process We Used to Start a Successful Podcast</a> appeared first on <a href="/">AsperBAA</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/the-8-step-process-we-used-to-start-a-successful-podcast/feed/</wfw:commentRss>

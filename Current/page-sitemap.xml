@@ -29,66 +29,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/sponsors/</loc>
-		<lastmod>2024-08-20T02:05:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/IIBA-EEP-Logo-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/about-us/</loc>
-		<lastmod>2024-08-20T02:03:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/events/</loc>
-		<lastmod>2024-08-20T02:03:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/executive-team/</loc>
-		<lastmod>2024-08-04T23:28:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/10-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/10-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/10-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/10-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/10-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/face-9-min.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/face-7-min.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/face-5-min.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/IIBAexec.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/IGexec.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Birchwoodexec.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Bisonexec.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Integrationworxexec.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/event-gallery/</loc>
-		<lastmod>2024-08-04T17:55:07+00:00</lastmod>
+		<lastmod>2024-08-20T03:07:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Integrationworxlogo-3.png</image:loc>
 		</image:image>
@@ -199,6 +141,64 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/DSC_9427-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sponsors/</loc>
+		<lastmod>2024-08-20T02:05:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/IIBA-EEP-Logo-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about-us/</loc>
+		<lastmod>2024-08-20T02:03:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/events/</loc>
+		<lastmod>2024-08-20T02:03:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/executive-team/</loc>
+		<lastmod>2024-08-04T23:28:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/10-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/10-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/10-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/10-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/10-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/face-9-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/face-7-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/face-5-min.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/IIBAexec.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/IGexec.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Birchwoodexec.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bisonexec.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Integrationworxexec.png</image:loc>
 		</image:image>
 	</url>
 	<url>

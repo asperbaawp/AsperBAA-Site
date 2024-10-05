@@ -29,6 +29,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/events/</loc>
+		<lastmod>2024-10-05T00:22:50+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/executive-team/</loc>
 		<lastmod>2024-09-21T18:42:28+00:00</lastmod>
 		<image:image>
@@ -76,10 +80,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Integrationworxexec.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/events/</loc>
-		<lastmod>2024-09-21T18:08:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/meet-and-greet/</loc>
